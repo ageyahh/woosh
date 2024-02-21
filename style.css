@@ -1,0 +1,30 @@
+html {
+ 
+    background-color: white;
+    font-family:
+}
+h1{
+    color: deeppink;
+    font-style: italic;
+}
+h2{
+    color: deeppink;
+    font-style: italic;
+}
+h3{
+    color:deeppink;
+    font-style: italic;
+}
+
+/* Universal Selector*/
+*{
+    text-align: center;
+}
+button{
+    background-color: rgb(255, 183, 219);
+}
+/* ID Selector*/
+#button{
+    text-decoration: none;
+}
+
